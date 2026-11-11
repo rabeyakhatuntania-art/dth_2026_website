@@ -1,4 +1,4 @@
-# Page one
+#
 
 # Advantages of open source software
 
