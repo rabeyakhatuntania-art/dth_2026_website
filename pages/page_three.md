@@ -1,4 +1,4 @@
-# An open source project for my major: Voyant Tools
+# 
 [Voyant Tools](https://voyant-tools.org) is a web-based tool for reading and analysing texts. You paste in a text or upload files, and it shows word frequencies, word clouds, how words are used in context, and how terms change through a text. It was created by the digital humanities scholars Stéfan Sinclair and Geoffrey Rockwell.
 
 ## How it helps in English studies
