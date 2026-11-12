@@ -20,7 +20,7 @@
 
 body {
   font-family: var(--projectFont);
-  background-color: thistle;
+  background-color: rgb(163, 169, 186);
   padding: 0;
   margin: 0;
   font-weight: 300;
@@ -47,17 +47,17 @@ section {
 
 #navBar>a {
   align-self: center;
-  transition: ease-in-out, 0.3s;
+  transition: ease-in-out, 0.10s;
 }
 
 .navLink,
 .footerLinks {
   margin-left: 20px;
-  transition: ease-in-out, 0.3s;
+  transition: ease-in-out, 0.10s;
 }
 
 #navBar>a:hover {
-  color: var(--green);
+  color: var(--blue);
   cursor: pointer;
 }
 .navLink:hover {
@@ -126,18 +126,18 @@ h1 {
 }
 
 .carouselBtn {
-  background-color: var(--white);
+  background-color: var(--pink);
   outline: none;
   border: none;
   color: var(--blue);
   font-size: 48px;
   margin: 0 40px;
-  transition: ease-in-out, 0.3s;
+  transition: ease-in-out, 0.10s;
 }
 
 .carouselBtn:hover {
   cursor: pointer;
-  color: var(--green);
+  color: var(--pink);
   transform: scale(1.3);
 }
 
