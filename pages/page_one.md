@@ -10,7 +10,7 @@ Another advantage is independence. If a company closes down or drops a product, 
 
 Open file formats help too, such as documents made in LibreOffice can be opened by many programs, so my work does not depend on one supplier. Open source also builds on shared work. Projects reuse each other's code, and large ones like Firefox are developed by communities around the world. 
 
-Finally, open source supports open research. If a scholar uses an open tool, others can repeat the analysis and see exactly how a result was reached.
+Finally, open source supports open research. If a scholar uses an open tool, others can repeat the analysis and see exactly how a result was reached. A student, a researcher and a municipality can all use the same tool without asking anyone for permission. Another thing is open source is also good for teaching.
 
 But free to download does not mean free to make, as the next page shows.
 
