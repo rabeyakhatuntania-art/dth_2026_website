@@ -17,7 +17,7 @@ In literary analysis, close reading can be combined with distant reading. A conc
 
 I would use Voyant for exploring texts in a thesis, but not as my only method. It is actively maintained, but a small team stands behind it and its funding is unclear. I could leave it again, because I can export my results and texts, and it can be run on my own computer.
 
-## Sources
+## References
 
 - [Voyant Tools](https://voyant-tools.org)
 - [Voyant Tools on GitHub](https://github.com/voyanttools/Voyant)
