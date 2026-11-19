@@ -230,3 +230,8 @@ main img {
 }
 
 #page_two h2 { color: var(--light-blue; }
+
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
