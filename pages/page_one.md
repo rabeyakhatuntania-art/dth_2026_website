@@ -14,7 +14,7 @@ Finally, open source supports open research. If a scholar uses an open tool, oth
 
 But free to download does not mean free to make, as the next page shows.
 
-## Sources
+## References
 
 - [The Open Source Definition](https://opensource.org/osd)
 - [LibreOffice](https://www.libreoffice.org)
