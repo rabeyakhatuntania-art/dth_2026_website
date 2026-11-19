@@ -12,7 +12,7 @@ The third is usability and support. There is often no helpdesk, only documentati
 
 Finally, licences come with rules. The GPL, for example, requires that changes are shared under the same terms. That can be a problem for organisations that want to keep their own additions private, so users must understand a licence before relying on a tool. 
 
-## Sources 
+## References 
 - [Heartbleed](https://heartbleed.com) 
 - [The GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html)
 
