@@ -7,21 +7,21 @@
 :root {
   --white: #ffffff;
   --black: #000000;
-  --blue: #5899e2;
-  --light-blue: #d6eaff;
+  --blue: #6f8fc0;
+  --light-blue: #e4eefb;
+  --pink: #f3b5cb;
   --green: #9de38c;
   --purple: #ceaeea;
   --red: #f22c43;
   --yellow: #fddd0d;
   --projectFont: Lexend, Arial, sans-serif;
 }
-
 /* individual element styles */
 
 body {
   font-family: "Quicksand", var(--projectFont), sans-serif;
-  background-color: #fff5f7;
-  color: #5a4a4f;
+  background-color: #c9dcf0;
+  color: #3d4a5c;
   line-height: 1.7;
   padding: 0;
   margin: 0;
@@ -81,9 +81,11 @@ section {
 }
 
 #bannerShadow {
-  background-color: rgba(79, 118, 157, 0.447);
+  background-color: rgba(111, 143, 192, 0.4);
   height: 100%;
 }
+
+#bannerShadow h1 { color: #ffffff; }
 
 h1 {
   width: 100%;
@@ -233,7 +235,23 @@ main img {
   cursor: auto;
   transform: scale(1);
 }
-#page_two h2 { color: var(--light-blue; }
+#page_two h2 { color: var(--light-blue) ; }
+/* snowfall */
+.snowflake {
+  position: fixed;
+  top: -30px;
+  color: #ffffff;
+  opacity: 0.85;
+  pointer-events: none;
+  z-index: 9999;
+  animation-name: fall;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes fall {
+  to { transform: translateY(110vh) translateX(40px); }
+}
 
 #totalCount {
   align-self: center;
