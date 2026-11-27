@@ -19,11 +19,13 @@
 /* individual element styles */
 
 body {
-  font-family: var(--projectFont);
-  background-color: rgb(163, 169, 186);
+  font-family: "Quicksand", var(--projectFont), sans-serif;
+  background-color: #fff5f7;
+  color: #5a4a4f;
+  line-height: 1.7;
   padding: 0;
   margin: 0;
-  font-weight: 300;
+  font-weight: 400;
 }
 
 /* some of HTML elements come with element specific style, we want to remove it so we can style them ourselves */
