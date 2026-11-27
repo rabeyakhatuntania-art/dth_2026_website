@@ -236,6 +236,11 @@ main img {
   transform: scale(1);
 }
 #page_two h2 { color: var(--light-blue) ; }
+
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
 /* snowfall */
 .snowflake {
   position: fixed;
@@ -251,9 +256,4 @@ main img {
 
 @keyframes fall {
   to { transform: translateY(110vh) translateX(40px); }
-}
-
-#totalCount {
-  align-self: center;
-  margin: 0;
 }
